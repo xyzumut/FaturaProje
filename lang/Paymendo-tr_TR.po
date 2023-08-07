@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paymendo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Paymendo Settings"
+msgstr "Paymendo Ayar"
+
+msgid "Paymendo Settings Page"
+msgstr "Paymendo Ayar Sayfası"
+
+msgid "E-mail Address"
+msgstr "Mail Adresi"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Successfully logged in."
+msgstr "Başarı ile giriş yapıldı."
+
+msgid "Information saved and logged in."
+msgstr "Bilgiler kaydedildi ve giriş yapıldı."
+
+msgid "Not logged in yet. To log in, enter the information and press submit."
+msgstr "Henüz giriş yapılmadı. Giriş Yapmak için bilgileri girip göndere basın."
+
+msgid "Login failed because information is missing or incorrectly saved."
+msgstr "Giriş yapılamadı çünkü bilgiler eksik veya hatalı kaydedildi."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Order Number"
+msgstr "Sipariş numarası"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Created"
+msgstr "Oluşturulma"
+
+msgid "Balance"
+msgstr "Tutar"
+
+msgid "Pay"
+msgstr "Öde"
+
+msgid "An error occurs, please login again."
+msgstr "Bir hata oluşur, lütfen tekrar giriş yapınız."
+
+msgid "Add Order"
+msgstr "Fatura Ekle"
+
+msgid "Your Note"
+msgstr "Notunuz"
+
+msgid "Create Order"
+msgstr "Fatura Oluştur"
+
+msgid "Current page"
+msgstr "Şu anki sayfa"
+
+msgid "There was a problem, try again later."
+msgstr "Bir sorun oluştu, daha sonra tekrar deneyin."
+
+msgid "Misdirection, please first select the invoice to be paid from the invoices page."
+msgstr "Yanlış yönlendirme, lütfen önce faturalar sayfasından ödenecek faturayı seçin."
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Name Surname"
+msgstr "İsim Soyisim"
+
+msgid "Card Number"
+msgstr "Kart Numarası"
+
+msgid "Expiry Date (Month/Year)"
+msgstr "Son Kullanma Tarihi (Ay/Yıl)"
+
+msgid "Expiry Date"
+msgstr "Son Kullanma Tarihi"
+
+msgid "Security Code"
+msgstr "Güvenlik Kodu"
+
+msgid "Please enter all information completely."
+msgstr "Tüm bilgileri eksiksiz giriniz."
+
+msgid "Submit"
+msgstr "Gönder"
+
+msgid "Payment Page"
+msgstr "Ödeme Sayfası"
+
+msgid "Orders Page"
+msgstr "Faturalar Sayfası"
+
+msgid "Password Sent Wrong"
+msgstr "Şifre Yanlış Gönderildi"
+
+msgid "Email Address Sent Wrong"
+msgstr "Email Yanlış Gönderildi"
+
+msgid "Authentication error, please sign in again."
+msgstr "Doğrulama hatası, lütfen tekrar oturum açın."
+
+msgid "The information entered was incorrect, so the login failed."
+msgstr "Girilen bilgilerde yanlışlık var, bu yüzden oturum açılamadı."

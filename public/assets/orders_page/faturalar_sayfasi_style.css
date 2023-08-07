@@ -1,0 +1,151 @@
+
+/* Tablonun Kodları */
+#orders_table_container{
+    overflow: auto;
+    max-height: 300px;
+}
+
+#orders_table{
+    border-collapse:separate; 
+    border-spacing: 0 1em;
+}
+
+#orders_table th{
+    font-size: 14px;
+}
+
+#orders_table td{
+    font-size: 12px;
+}
+
+#orders_table th, #orders_table td{
+    text-align: center;
+}
+.orders_table_id{
+    width: 10%;
+}
+.orders_table_order_number{
+    width: 15%;
+    font-size: 12px !important;
+}
+.orders_table_status{
+    width: 10%;
+}
+.orders_table_notes{
+    width: 30%;
+}
+.orders_table_created{
+    width: 10%;
+}
+.orders_table_balance{
+    width: 15%;
+}
+.orders_table_link{
+    width: 10%;
+}
+/* Tablonun Kodları */
+
+
+/* Fatura Oluşturmanın Kodları */
+#create_order_paymende_form{
+    padding: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.create_order_paymendo_label{
+    display: flex;
+    height: 50px;
+    margin-bottom: 30px;
+}
+.create_order_paymende_form_label_text{
+    font-size: 18px;
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 100px;
+}
+#create_order_paymende_form_amount{
+    
+}
+#create_order_paymende_form_notes{
+
+}
+#create_order_paymendo_select{
+    padding: 3px 6px;
+    margin-bottom: 30px;
+}
+#create_order_paymende_form_submit_button{
+    width: 50%;
+    height: 40px;
+    margin: 0 auto;
+    border: 1px solid rgba(69, 137, 238, 0.623);
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgba(69, 137, 238, 0.623);
+    color: white;
+    transition: .3s all ease-in-out;
+    cursor: pointer;
+}
+#create_order_paymende_form_submit_button:hover{
+    background-color: white;
+    color: rgba(69, 137, 238, 0.623);
+}
+#create_order_paymende_form_submit_button:active{
+    transition: .2s all ease-in-out;
+    color: rgba(36, 115, 233, 0.87);
+
+}
+
+#paymendo_paginator_container{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+#paymendo_paginator_page_numbers_container{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 15px;
+}
+.paymendo_paginator_badge{
+    background-color: rgb(196, 196, 196);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    color: black !important;
+}
+.paymendo_paginator_badge_active{
+    background-color: rgb(74, 139, 74);
+    color: white !important;
+}
+.paymendo_page_number{
+    text-decoration: none;
+}
+.paymendo_page_number:hover{
+    opacity: .7;
+}
+.paymendo_page_number:active{
+    opacity: .9;
+}
+.paymendo_page_number:focus-visible{
+    outline: none;
+}
+.paymendo_page_number:focus{
+    text-decoration: none;
+}
+#paymendo_paginator_current_page{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+/* Fatura Oluşturmanın Kodları */
